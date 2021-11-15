@@ -23,7 +23,7 @@ Used Cron Jobs [django_cron](https://django-cron.readthedocs.io/en/latest/introd
 For visualization through a dashboard one may directly run the app locally and the get the UI provided through django-rest-framework
 
 ### Dashboard
-![Dashboard](screenshot/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Filters
-![Filters](screenshot/filters.png)
+![Filters](screenshots/filters.png)
